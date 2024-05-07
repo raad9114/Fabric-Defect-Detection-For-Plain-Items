@@ -30,5 +30,5 @@ Detect contours in the image.
 Draw contours around the detected defects.
 This file contains the Streamlit application code that integrates the fabric defect detection implementation and provides the user interface for uploading images and visualizing the results.
 
-Author: Zaoyad Khan Raad
+## Author: Zaoyad Khan Raad
 
